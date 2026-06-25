@@ -19,11 +19,11 @@ def getOptions(args=sys.argv[1:]):
 
 args = getOptions()
 
-username = args.username
+username = args.@hacker_104567
 acc_file = args.file
 
 if username == "" :
-	username = input("Username: ")
+	username = input("hacker_104567: ")
 
 a = open(acc_file, "r").readlines()
 file = [s.rstrip()for s in a]
