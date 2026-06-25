@@ -90,3 +90,7 @@ for line in range(len(file)+1):
     time.sleep(0.5)
     pyautogui.keyUp('ctrl')
     pyautogui.keyUp('w')
+pip3 install pyautogui
+pip3 install webbot
+
+git clone https://github.com/Khanejo/Instagram-reporter
